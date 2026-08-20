@@ -1,0 +1,62 @@
+# ==========================================
+# Git Ignore - Data Analytics Portfolio
+# ==========================================
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.BIN/
+
+# Temporary / Lock Files (Office, Tableau, Editors)
+~$*
+~*.twbr
+~*.xlsx
+~*.docx
+~*.pptx
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Database Lock / Journal Files
+*.db-journal
+*.sqlite-journal
+*.sqlite-wal
+
+# Large compressed backup caches (if any)
+*.zip.tmp
