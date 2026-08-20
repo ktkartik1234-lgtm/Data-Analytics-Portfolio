@@ -12,14 +12,14 @@ Real estate valuation and capital allocation require multi-year longitudinal tre
 ## 📁 Repository Structure
 
 ```text
-tablue_project/
+tableau_project/
 │
 └── 📂 real_estate_sales_dashboard/
     ├── 📂 dashboard/
     │   └── mini project tablue.twbx           # Packaged Tableau Workbook (Visualizations & Dashboards)
     ├── 📂 data/
     │   └── Real_Estate_Sales_2011-2022_GL_1.xlsx  # Multi-year longitudinal real estate sales dataset
-    ├── 📂 requierments/
+    ├── 📂 requirements/
     │   └── Executive Summary.docx             # Formal Executive Business Report
     └── 📄 README.md                           # Project documentation
 ```

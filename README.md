@@ -54,7 +54,7 @@ Data-Analytics-Portfolio/
 │   ├── 📱 social_media_addiction/              # Student Social Media & Behavioral Health Dashboard
 │   └── 📄 README.md                            # Detailed documentation
 │
-├── 📈 tablue_project/                          # Tableau Real Estate Market Valuation Intelligence
+├── 📈 tableau_project/                          # Tableau Real Estate Market Valuation Intelligence
 │   ├── 📊 real_estate_sales_dashboard/         # 2011-2022 Property Transaction & Sales Ratio Dashboard
 │   └── 📄 README.md                            # Detailed documentation
 │
@@ -96,7 +96,7 @@ eviews), formulated ROW_NUMBER() window functions for top customer orders, and m
 * **Stack**: Microsoft Power BI Desktop, DAX, Power Query ETL.
 * **Highlights**: Quantified that flight delays $>25	ext{ mins}$ cause an 18.4% operating margin erosion; built interactive route KPI matrices.
 
-### 5. 📈 [Real Estate Market Valuation Intelligence Dashboard](tablue_project/README.md)
+### 5. 📈 [Real Estate Market Valuation Intelligence Dashboard](tableau_project/README.md)
 * **Objective**: Track real estate volume cycles, top municipalities, and tax assessment sales ratios across 2011–2022.
 * **Stack**: Tableau Desktop (twbx), Excel, Calculated LOD Fields.
 * **Highlights**: Pinpointed Hot Springs (.6B total sales) as top market, analyzed Apartment capital concentration (.4M/sale avg), and evaluated sales ratios (1.08–1.11).
