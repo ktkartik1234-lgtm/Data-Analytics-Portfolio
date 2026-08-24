@@ -46,7 +46,7 @@ Analytical Data Analyst certified in **Data Analytics with GenAI by Career 247 (
 * **Data Analytics with GenAI (Master Certificate)** — Career 247 (An Adda247 Education Company) | Credential ID: **SIN: C2473293**
 * **Generative AI Essentials (AI0121EN)** — Career 247 & IBM SkillsNetwork (July 2026)
 * **AI Applications with Python and Flask (PY0222EN)** — Career 247 & IBM SkillsNetwork (August 2026)
-* **Generative AI Skills for Business Intelligence (AI0279EN)** — Career 247 & SkillUpEdTech (August 2026)
+* **Generative AI Skills for Business Intelligence (AI0279EN)** — Career 247 & IBM SkillsNetwork (August 2026)
 
 ---
 
