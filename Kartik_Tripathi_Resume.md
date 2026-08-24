@@ -6,13 +6,13 @@ Nainital, Uttarakhand, India | +91 70172 69349 | ktkartik1234@gmail.com
 ---
 
 ## 🎯 PROFESSIONAL SUMMARY
-Analytical Data Analyst certified with the **IBM Data Analytics Professional Certificate** and holding a **B.Sc. in Physics, Chemistry, & Mathematics**. Rigorous expertise in **SQL (Advanced Queries, DDL/DML, Window Functions), Python (Pandas, NumPy, SciPy), Power BI, Tableau, Advanced Excel, and Applied Statistics**. Proven ability in architecting normalized relational databases, developing executive BI dashboards, and executing predictive customer RFM segmentations to drive business decision-making.
+Analytical Data Analyst certified in **Data Analytics with GenAI by Career 247 (SIN: C2473293)** and holding a **B.Sc. in Physics, Chemistry, & Mathematics**. Rigorous expertise in **SQL (Advanced Queries, DDL/DML, Window Functions), Python (Pandas, NumPy, SciPy), Power BI, Tableau, Advanced Excel, Applied Statistics, and Generative AI**. Demonstrated track record in architecting normalized relational databases, developing executive BI dashboards, and executing predictive customer RFM segmentations to drive business decision-making.
 
 ---
 
 ## 🛠️ TECHNICAL SKILLS
 * **SQL & Database Engineering**: MySQL, SQLite, PostgreSQL, Relational Schema Normalization (3NF), DDL/DML, Window Functions (ROW_NUMBER), Multi-Table Joins, Subqueries (EXISTS/NOT EXISTS), Set Operations
-* **Programming & Analytics**: Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, SQLAlchemy), Jupyter Notebooks, RFM Customer Segmentation, Pareto (80/20) Decile Modeling, Data Quality Profiling
+* **Programming & Generative AI**: Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Flask, SQLAlchemy), Jupyter, GenAI & Prompt Engineering, RFM Customer Segmentation, Pareto (80/20) Decile Modeling
 * **BI & Visualization Tools**: Microsoft Power BI (DAX Measures, Power Query ETL, Star Schema, KPI Dashboards), Tableau Desktop (Calculated Fields, LOD Expressions, Geographic Mapping)
 * **Spreadsheets & Statistics**: Advanced Excel (Multi-Table Pivot Tables, Slicers, XLOOKUP, Nested IFS/COUNTIFS, Variance Modeling), Hypothesis Testing (Two-Sample t-Tests, ANOVA, Chi-Square, Pearson r)
 
@@ -27,8 +27,8 @@ Analytical Data Analyst certified with the **IBM Data Analytics Professional Cer
 
 ### 2. AegisLife Insurance: Risk Analytics & Claims Intelligence (Capstone)
 *Tech Stack: Python (Pandas, SciPy), SQLite, SQL DDL, Power BI*
-* **Relational ETL & Statistical Rigor**: Ingested 2M+ records into normalized SQLite schema; ran parametric hypothesis tests in SciPy disproving legacy Risk Score predictive power ( = 0.012, p = 0.64$) to recommend an underwriting model overhaul.
-* **Fraud Detection & Power BI**: Isolated intermediary agent fraud clusters ($\chi^2 = 38.42, p < 0.001$) and delivered an interactive Power BI dashboard with C-suite briefing decks to mitigate a 49% claims suspicion rate.
+* **Relational ETL & Statistical Rigor**: Ingested 2M+ records into normalized SQLite schema; ran parametric hypothesis tests in SciPy disproving legacy Risk Score predictive power (r = 0.012, p = 0.64) to recommend an underwriting model overhaul.
+* **Fraud Detection & Power BI**: Isolated intermediary agent fraud clusters (chi-sq = 38.42, p < 0.001) and delivered an interactive Power BI dashboard with C-suite briefing decks to mitigate a 49% claims suspicion rate.
 
 ### 3. Customer Lifetime Value & RFM Segmentation Analytics Pipeline
 *Tech Stack: Python (Pandas, NumPy, Seaborn), Jupyter, Pareto Decile Modeling*
@@ -43,7 +43,10 @@ Analytical Data Analyst certified with the **IBM Data Analytics Professional Cer
 ---
 
 ## 📜 CERTIFICATIONS
-* **IBM Data Analytics Professional Certificate**: SQL & Databases, Python, Statistics, Excel, Power BI, Tableau, Data Transformation, Applied Generative AI.
+* **Data Analytics with GenAI (Master Certificate)** — Career 247 (An Adda247 Education Company) | Credential ID: **SIN: C2473293**
+* **Generative AI Essentials (AI0121EN)** — Career 247 & IBM SkillsNetwork (July 2026)
+* **AI Applications with Python and Flask (PY0222EN)** — Career 247 & IBM SkillsNetwork (August 2026)
+* **Generative AI Skills for Business Intelligence (AI0279EN)** — Career 247 & SkillUpEdTech (August 2026)
 
 ---
 
