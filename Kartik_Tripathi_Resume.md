@@ -6,7 +6,7 @@ Nainital, Uttarakhand, India | +91 70172 69349 | ktkartik1234@gmail.com
 ---
 
 ## 🎯 PROFESSIONAL SUMMARY
-Analytical and results-driven Data Analyst & BI Developer with a strong quantitative foundation (B.Sc. in Physics, Chemistry, & Mathematics) and professional certification in Data Analytics with GenAI. Proven expertise in SQL database architecture (3NF / Star Schema), Python data analytics pipelines (Pandas, NumPy, SciPy), inferential statistical modeling, and executive dashboard engineering using Power BI and Tableau. Adept at translating multi-million row transactional datasets into actionable commercial insights, predictive customer segmentation (RFM), and interactive business intelligence solutions for cross-functional stakeholders.
+Analytical and results-driven Data Analyst & BI Developer with a strong quantitative foundation (B.Sc. in Physics, Chemistry, & Mathematics) and professional certifications in Data Analytics with GenAI and Market Research. Proven expertise in SQL database architecture (3NF / Star Schema), Python data analytics pipelines (Pandas, NumPy, SciPy), inferential statistical modeling, market research & consumer insights, and executive dashboard engineering using Power BI and Tableau. Adept at translating multi-million row transactional datasets into actionable commercial insights, predictive customer segmentation (RFM), and interactive business intelligence solutions for cross-functional stakeholders.
 
 ---
 
@@ -14,7 +14,7 @@ Analytical and results-driven Data Analyst & BI Developer with a strong quantita
 * **SQL & Database Engineering**: PostgreSQL, MySQL, SQLite, Relational Schema Normalization (3NF), Star Schema, Dimensional Modeling, Window Functions (ROW_NUMBER, RANK), CTEs, Multi-Table Joins, Correlated Subqueries (EXISTS/NOT EXISTS), Indexing & Constraints
 * **Python & Data Analytics**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Flask, Jupyter Notebooks, Data Cleansing, ETL Pipelines, Generative AI & Prompt Engineering
 * **Business Intelligence & Visualization**: Microsoft Power BI (DAX Measures, Power Query ETL, Star Schema Modeling, Interactive Dashboards), Tableau Desktop (Calculated Fields, FIXED LOD Expressions, GIS Mapping), Advanced Excel (Pivot Tables, Dynamic Slicers, XLOOKUP, Nested Formulas, Variance Modeling)
-* **Statistical Modeling & Commercial Analytics**: Inferential Statistics, Hypothesis Testing (Welch\'s t-Test, ANOVA, Chi-Square, Pearson r), RFM Customer Segmentation, Pareto (80/20) Decile Modeling, KPI Definition, Revenue & Margin Variance Analysis
+* **Statistical Modeling & Market Research**: Inferential Statistics, Hypothesis Testing (Welch's t-Test, ANOVA, Chi-Square, Pearson r), RFM Customer Segmentation, Pareto (80/20) Decile Modeling, Market Research & Sizing, Consumer Insights, Survey Design & Sampling, Competitor Analysis, KPI Definition, Variance Analysis
 
 ---
 
@@ -62,6 +62,7 @@ Analytical and results-driven Data Analyst & BI Developer with a strong quantita
 
 ## 📜 CERTIFICATIONS
 * **Data Analytics with GenAI (Master Certificate)** — Career 247 (An Adda247 Education Company) | Credential ID: **SIN: C2473293**
+* **Certificate Course in Market Research (60 Hours)** — Reliance Foundation Skilling Academy & Skill India Digital Hub (December 2025)
 * **Generative AI Skills for Business Intelligence (AI0279EN)** — Career 247 & IBM SkillsNetwork (August 2026)
 * **AI Applications with Python and Flask (PY0222EN)** — Career 247 & IBM SkillsNetwork (August 2026)
 * **Generative AI Essentials (AI0121EN)** — Career 247 & IBM SkillsNetwork (July 2026)

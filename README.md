@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-Motivated and detail-oriented **Data Analyst & BI Developer** certified in **Data Analytics with GenAI by Career 247 (SIN: C2473293)** with expertise in **SQL, Python, Power BI, Tableau, Advanced Excel, Applied Statistics, and Generative AI**. Proven track record in translating multi-million row transactional datasets and relational schemas into high-impact executive dashboards, normalized database architectures, predictive behavioral segmentations, and actionable commercial strategies. 
+Motivated and detail-oriented **Data Analyst & BI Developer** certified in **Data Analytics with GenAI by Career 247 (SIN: C2473293)** and **Market Research (Reliance Foundation / Skill India)** with expertise in **SQL, Python, Power BI, Tableau, Advanced Excel, Applied Statistics, Market Research, and Generative AI**. Proven track record in translating multi-million row transactional datasets and relational schemas into high-impact executive dashboards, normalized database architectures, predictive behavioral segmentations, and actionable commercial strategies. 
 
 Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics** from Kumaun University.
 
@@ -23,7 +23,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 | **Programming & Scripting** | Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib, Flask, SQLAlchemy), Jupyter Notebooks, GenAI & Prompt Engineering |
 | **Business Intelligence** | Microsoft Power BI (DAX Measures, Power Query ETL, Star Schema Modeling), Tableau Desktop (Calculated Fields, LOD Expressions, Geo-Mapping) |
 | **Advanced Spreadsheets** | Microsoft Excel (Pivot Tables, Dynamic Slicers, XLOOKUP / VLOOKUP, Nested Formulas, Target Variance Models, Solver) |
-| **Statistical Analysis** | Hypothesis Testing (Two-Sample t-Tests, One-Way ANOVA, Chi-Square, Pearson Correlation), RFM Segmentation, Pareto (80/20) Decile Analysis |
+| **Statistical Analysis & Market Research** | Hypothesis Testing (Two-Sample t-Tests, One-Way ANOVA, Chi-Square, Pearson Correlation), RFM Segmentation, Pareto (80/20) Decile Analysis, Market Research & Sizing, Consumer Insights, Survey Design |
 | **Core Capabilities** | Relational Data Modeling, Data Cleaning & Wrangling, ETL Pipelines, Data Quality Profiling, Executive KPI Reporting |
 
 ---
@@ -83,6 +83,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 
 ## 📜 Education & Certifications
 * **Data Analytics with GenAI (Master Certificate)** | Career 247 (An Adda247 Education Company) | Credential ID: **SIN: C2473293**
+* **Certificate Course in Market Research (60 Hours)** | Reliance Foundation Skilling Academy & Skill India Digital Hub (December 2025)
 * **Generative AI Essentials (AI0121EN)** | Career 247 & IBM SkillsNetwork (July 2026)
 * **AI Applications with Python and Flask (PY0222EN)** | Career 247 & IBM SkillsNetwork (August 2026)
 * **Generative AI Skills for Business Intelligence (AI0279EN)** | Career 247 & IBM SkillsNetwork (August 2026)
