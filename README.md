@@ -36,7 +36,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 | **[🛡️ AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)** | Insurance & Risk Analytics | Python, SQLite, SQL DDL, Power BI, SciPy | 2M+ records SQLite DB, hypothesis testing, Power BI dashboard, C-suite report |
 | **[🐍 Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)** | E-Commerce Customer Analytics | Python (Pandas, Seaborn), Jupyter, Pareto Modeling | 23,050 transactions RFM quintile model, 8 behavioral cohorts, Pareto analysis |
 | **[✈️ Commercial Airline Performance & Flight Operations BI](power_bi_projects/README.md)** | Aviation & Operations | Power BI (DAX), Power Query, Star Schema | Interactive route profitability dashboard, delay impact margin analysis |
-| **[📈 Real Estate Market Valuation & Longitudinal Trends](tableau_project/README.md)** | Real Estate Market Analytics | Tableau Desktop, LOD Expressions, GIS | 12-year longitudinal sales trends, Hot Springs .6B market, Sales Ratio analysis |
+| **[📈 Real Estate Market Valuation & Longitudinal Trends](tableau_project/README.md)** | Real Estate Market Analytics | Tableau Desktop, LOD Expressions, GIS | 12-year longitudinal sales trends, Hot Springs \$9.6B market, Sales Ratio analysis |
 | **[📑 Advanced Excel Modeling & Analytics Suite](excel_project/README.md)** | Operational Modeling | Advanced Excel (Multi-Table Pivot Tables, Slicers) | Amazon multi-table quota variance model, student academic impact workbook |
 | **[🧪 Consumer Behavior & Statistical Hypothesis Testing](stat_project/README.md)** | Inferential Statistics | SciPy, Parametric & Non-Parametric Tests | Hypothesis testing report proving gender-neutral spend and education-agnostic value |
 
@@ -57,7 +57,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 ### 3. 🐍 [Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)
 * **Objective**: Segment 1,000 customer accounts across 23,050 transactions into high-value customer personas.
 * **Stack**: Python (Pandas, NumPy, Seaborn, Matplotlib, Jupyter).
-* **Highlights**: Built an RFM scoring pipeline using pandas qcut quintiles; classified 8 customer cohorts (Champions driving .73M / 16.2% revenue, Loyalists driving .12M / 22.2% revenue); built a dual-axis Pareto chart mapping decile spend against cumulative revenue share.
+* **Highlights**: Built an RFM scoring pipeline using pandas qcut quintiles; classified 8 customer cohorts (Champions driving \$3.73M / 16.2% revenue, Loyal Customers driving \$5.12M / 22.2% revenue); built a dual-axis Pareto chart mapping decile spend against cumulative revenue share.
 
 ### 4. ✈️ [Commercial Airline Performance & Profitability Dashboard](power_bi_projects/README.md)
 * **Objective**: Analyze route profitability, load factors, and delay sensitivities across 187 commercial flights.
@@ -67,7 +67,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 ### 5. 📈 [Real Estate Market Valuation Intelligence Dashboard](tableau_project/README.md)
 * **Objective**: Evaluate 12 years of property transaction cycles (2011-2022), municipal performance, and tax assessment sales ratios.
 * **Stack**: Tableau Desktop, Level of Detail (LOD) Expressions, Geographic Mapping.
-* **Highlights**: Analyzed pandemic surge peaks in 2020-2021 (64.4k sales), identified Hot Springs (.6B total sales) as top market, and evaluated Assessed Value to Sale Price ratios (1.08-1.11 benchmarks).
+* **Highlights**: Analyzed pandemic surge peaks in 2020-2021 (64.4k sales), identified Hot Springs (\$9.6B total sales) as top market, and evaluated Assessed Value to Sale Price ratios (1.08-1.11 benchmarks).
 
 ### 6. 🛒 [Amazon E-Commerce Sales & Target Variance Model](excel_project/README.md)
 * **Objective**: Multi-table operational dashboard tracking order fulfillment and regional quota attainment.
