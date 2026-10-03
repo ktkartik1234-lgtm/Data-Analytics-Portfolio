@@ -19,12 +19,13 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **SQL & Relational Databases** | MySQL, SQLite, PostgreSQL, Schema Normalization (3NF), DDL/DML, Window Functions (ROW_NUMBER), Multi-Table Joins, Subqueries, Set Operations |
-| **Programming & Scripting** | Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib, Flask, SQLAlchemy), Jupyter Notebooks, GenAI & Prompt Engineering |
+| **Modern Data Stack & Lakehouse** | DuckDB Lakehouse, dbt Core (Multi-Schema Staging / Intermediate / Marts, Data Quality Testing), Apache Parquet (Snappy), Apache Arrow |
+| **SQL & Relational Databases** | DuckDB, MySQL, SQLite, PostgreSQL, Schema Normalization (3NF), Advanced Window Functions (LAG, LEAD, ROW_NUMBER), Spatial Joins, Multi-Table Joins, CTEs |
+| **Programming & Scripting** | Python (Polars, Pandas, NumPy, SciPy, PyArrow, Seaborn, Matplotlib, Flask, SQLAlchemy), Jupyter Notebooks, GenAI & Autonomous Briefing Engines |
 | **Business Intelligence** | Microsoft Power BI (DAX Measures, Power Query ETL, Star Schema Modeling), Tableau Desktop (Calculated Fields, LOD Expressions, Geo-Mapping) |
 | **Advanced Spreadsheets** | Microsoft Excel (Pivot Tables, Dynamic Slicers, XLOOKUP / VLOOKUP, Nested Formulas, Target Variance Models, Solver) |
-| **Statistical Analysis & Market Research** | Hypothesis Testing (Two-Sample t-Tests, One-Way ANOVA, Chi-Square, Pearson Correlation), RFM Segmentation, Pareto (80/20) Decile Analysis, Market Research & Sizing, Consumer Insights, Survey Design |
-| **Core Capabilities** | Relational Data Modeling, Data Cleaning & Wrangling, ETL Pipelines, Data Quality Profiling, Executive KPI Reporting |
+| **Statistical Analysis & Forensics** | Hypothesis Testing (Welch's Two-Sample t-Tests, Mann-Whitney U, Pearson Chi-Square, Fisher's Exact Odds Ratio, One-Way ANOVA), Effect Sizes (Cohen's d, Cramér's V), RFM Segmentation, Pareto Analysis |
+| **Core Capabilities** | Analytical Data Modeling, Micro-Lakehouse Architecture, Data Cleaning & Wrangling, Data Quality Profiling, Autonomous Executive Compliance Reporting |
 
 ---
 
@@ -32,6 +33,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 
 | Project | Domain | Tech Stack | Highlights & Key Deliverables |
 | :--- | :--- | :--- | :--- |
+| **[🛰️ DarkFleet-IQ: Maritime Satellite Telemetry & Forensics](dark_fleet_analytics/README.md)** | Maritime Telemetry & Geopolitical Sanctions | DuckDB, dbt Core, Python (Polars, SciPy), Parquet, GenAI | 112k+ pings, 43 dbt tests, Welch's t-test (p < 10⁻³⁷), $4.02B illicit crude detection |
 | **[🗄️ Retail E-Commerce Database & SQL Analytics](sql/README.md)** | Relational DB & SQL | MySQL, Schema Design (3NF), Window Functions | Normalized 6-table schema, 6-tier progressive SQL query analytics suite |
 | **[🛡️ AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)** | Insurance & Risk Analytics | Python, SQLite, SQL DDL, Power BI, SciPy | 2M+ records SQLite DB, hypothesis testing, Power BI dashboard, C-suite report |
 | **[🐍 Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)** | E-Commerce Customer Analytics | Python (Pandas, Seaborn), Jupyter, Pareto Modeling | 23,050 transactions RFM quintile model, 8 behavioral cohorts, Pareto analysis |
@@ -44,37 +46,42 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 
 ## 🌟 Featured Projects Deep-Dive
 
-### 1. 🗄️ [Retail E-Commerce Relational Database & Advanced SQL Analytics](sql/README.md)
+### 1. 🛰️ [DarkFleet-IQ: Geopolitical AIS Maritime Satellite Telemetry & Forensics](dark_fleet_analytics/README.md) • [📓 View Interactive Notebook](dark_fleet_analytics/DarkFleet_Forensics_Analysis.ipynb)
+* **Objective**: Architect an autonomous, institutional-grade maritime surveillance and statistical forensics lakehouse to detect illicit sanctions evasion, transponder tampering (*going dark*), and clandestine mid-sea Ship-to-Ship (STS) crude oil lightering across high-risk choke points (Strait of Hormuz, Malacca Strait, Black Sea, Gulf of Oman).
+* **Stack**: DuckDB Lakehouse, dbt Core (Multi-Schema Staging/Intermediate/Marts), Python (Polars, SciPy, NumPy), Apache Parquet, Jupyter Notebook, Matplotlib/Seaborn, GenAI Briefing Engine.
+* **Highlights**: Ingested 112,000+ satellite AIS pings across 120 vessels; engineered bidirectional SQL windowing (`LAG()` & `LEAD()`) and great-circle Haversine drift tracking; executed a 43-assertion dbt data quality suite; proved mid-sea cargo discharge via Welch's Two-Sample t-test ($t = 33.04, p = 1.68 \times 10^{-37}, d = 99.33$) and Pearson Chi-Square ($\chi^2 = 27.32, p = 1.73 \times 10^{-7}$, Odds Ratio = $44.1\times$ under shadow flags); synthesized findings into an automated C-suite Sanctions Briefing uncovering \$4.02B USD in illicit crude transfers. Pre-rendered interactive analysis available in [`DarkFleet_Forensics_Analysis.ipynb`](dark_fleet_analytics/DarkFleet_Forensics_Analysis.ipynb).
+
+### 2. 🗄️ [Retail E-Commerce Relational Database & Advanced SQL Analytics](sql/README.md)
 * **Objective**: Architect a production-grade 3NF relational database and author a 6-tier analytical SQL query suite.
 * **Stack**: MySQL, ANSI SQL, Window Functions (ROW_NUMBER), Complex Multi-Table Joins, Correlated Subqueries.
 * **Highlights**: Designed 6 normalized tables (customers, products, orders, order_items, payments, product_reviews) with constraint validation; built complex multi-table joins, customer order rankings via window functions, and gateway settlement reconciliation queries.
 
-### 2. 🛡️ [AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)
+### 3. 🛡️ [AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)
 * **Objective**: Alleviate a severe 49% claims fraud suspicion rate and optimize operational turnaround time.
 * **Stack**: Python, SQLite, SQL Schema DDL, Power BI, SciPy.
 * **Highlights**: Ingested 2M+ records into SQLite; conducted hypothesis tests in SciPy empirically proving legacy Risk Score has near-zero correlation with claim payouts (r = 0.012, p = 0.64); detected intermediary agent fraud clustering (chi-sq = 38.42, p < 0.001); delivered an interactive Power BI dashboard.
 
-### 3. 🐍 [Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)
+### 4. 🐍 [Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)
 * **Objective**: Segment 1,000 customer accounts across 23,050 transactions into high-value customer personas.
 * **Stack**: Python (Pandas, NumPy, Seaborn, Matplotlib, Jupyter).
 * **Highlights**: Built an RFM scoring pipeline using pandas qcut quintiles; classified 8 customer cohorts (Champions driving \$3.73M / 16.2% revenue, Loyal Customers driving \$5.12M / 22.2% revenue); built a dual-axis Pareto chart mapping decile spend against cumulative revenue share.
 
-### 4. ✈️ [Commercial Airline Performance & Profitability Dashboard](power_bi_projects/README.md)
+### 5. ✈️ [Commercial Airline Performance & Profitability Dashboard](power_bi_projects/README.md)
 * **Objective**: Analyze route profitability, load factors, and delay sensitivities across 187 commercial flights.
 * **Stack**: Microsoft Power BI Desktop, DAX, Power Query ETL.
 * **Highlights**: Formulated custom DAX measures for Route Operating Margin % and Delay Impact Factor; quantified that flight delays exceeding 25 minutes trigger an 18.4% operating profit drop.
 
-### 5. 📈 [Real Estate Market Valuation Intelligence Dashboard](tableau_project/README.md)
+### 6. 📈 [Real Estate Market Valuation Intelligence Dashboard](tableau_project/README.md)
 * **Objective**: Evaluate 12 years of property transaction cycles (2011-2022), municipal performance, and tax assessment sales ratios.
 * **Stack**: Tableau Desktop, Level of Detail (LOD) Expressions, Geographic Mapping.
 * **Highlights**: Analyzed pandemic surge peaks in 2020-2021 (64.4k sales), identified Hot Springs (\$9.6B total sales) as top market, and evaluated Assessed Value to Sale Price ratios (1.08-1.11 benchmarks).
 
-### 6. 🛒 [Amazon E-Commerce Sales & Target Variance Model](excel_project/README.md)
+### 7. 🛒 [Amazon E-Commerce Sales & Target Variance Model](excel_project/README.md)
 * **Objective**: Multi-table operational dashboard tracking order fulfillment and regional quota attainment.
 * **Stack**: Microsoft Excel (Pivot Tables, Slicers, XLOOKUP, Variance Formulas).
 * **Highlights**: Connected 4 relational tables (1,000 orders, product catalog, customer master, regional goals) with dynamic variance KPI reporting.
 
-### 7. 🧪 [Customer Behavior Statistical Modeling & Hypothesis Testing](stat_project/README.md)
+### 8. 🧪 [Customer Behavior Statistical Modeling & Hypothesis Testing](stat_project/README.md)
 * **Objective**: Test demographic variables against consumer spending and digital engagement recency.
 * **Stack**: Inferential Statistics, SciPy, Parametric & Non-Parametric Hypothesis Testing, HTML.
 * **Highlights**: Two-sample t-tests (p > 0.05) proving gender-neutral spending, ANOVA confirming education-agnostic demand, and Chi-Square establishing marital status lifestyle relationships.

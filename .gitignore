@@ -60,3 +60,11 @@ wheels/
 
 # Large compressed backup caches (if any)
 *.zip.tmp
+
+# Agent State & Memory
+.agents/
+
+# Build & Execution Artifacts
+logs/
+target/
+*.log
