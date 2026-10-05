@@ -68,3 +68,8 @@ wheels/
 logs/
 target/
 *.log
+
+# Standalone Repositories / Dedicated Projects (managed in separate GitHub repo)
+dark_fleet_analytics/
+run_darkfleet_app.py
+
