@@ -1,107 +1,92 @@
-# 🚀 Kartik Tripathi — Data Analytics & Business Intelligence Portfolio
+# Kartik Tripathi — Data Analytics Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik_Tripathi-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tripathi-725697383)
-[![GitHub](https://img.shields.io/badge/GitHub-ktkartik1234--lgtm-181717.svg?logo=github&logoColor=white)](https://github.com/ktkartik1234-lgtm)
-[![Email](https://img.shields.io/badge/Email-ktkartik1234%40gmail.com-D14836.svg?logo=gmail&logoColor=white)](mailto:ktkartik1234@gmail.com)
-[![Certificate](https://img.shields.io/badge/Career_247_Certified-Data_Analytics_with_GenAI-052FAD.svg?logo=googlecloud&logoColor=white)](https://courses.career247.skillsnetwork.site)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[LinkedIn](https://www.linkedin.com/in/kartik-tripathi-725697383) • [GitHub](https://github.com/ktkartik1234-lgtm) • [Portfolio Website](https://datascienceportfol.io/ktkartik1234) • [Email](mailto:ktkartik1234@gmail.com)
 
 ---
 
-## 👨‍💻 Professional Summary
-Motivated and detail-oriented **Data Analyst & BI Developer** certified in **Data Analytics with GenAI by Career 247 (SIN: C2473293)** and **Market Research (Reliance Foundation / Skill India)** with expertise in **SQL, Python, Power BI, Tableau, Advanced Excel, Applied Statistics, Market Research, and Generative AI**. Proven track record in translating multi-million row transactional datasets and relational schemas into high-impact executive dashboards, normalized database architectures, predictive behavioral segmentations, and actionable commercial strategies. 
+## About Me
+I am a Data Analyst with a quantitative background in **Physics, Chemistry, and Mathematics (B.Sc., Kumaun University)** and formal certifications in **Data Analytics with GenAI** and **Market Research**. 
 
-Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics** from Kumaun University.
+My core focus is taking complex, multi-table datasets and translating them into reliable data models, SQL queries, statistical tests, and clear visual dashboards. I have practical experience with **SQL (DuckDB, MySQL, SQLite), Python (Pandas, Polars, SciPy), Power BI, Tableau, and Advanced Excel**.
 
 ---
 
-## 🛠️ Technical Competencies & Tool Stack
+## Technical Skills
 
-| Domain | Tools & Technologies |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Modern Data Stack & Lakehouse** | DuckDB Lakehouse, dbt Core (Multi-Schema Staging / Intermediate / Marts, Data Quality Testing), Apache Parquet (Snappy), Apache Arrow |
-| **SQL & Relational Databases** | DuckDB, MySQL, SQLite, PostgreSQL, Schema Normalization (3NF), Advanced Window Functions (LAG, LEAD, ROW_NUMBER), Spatial Joins, Multi-Table Joins, CTEs |
-| **Programming & Scripting** | Python (Polars, Pandas, NumPy, SciPy, PyArrow, Seaborn, Matplotlib, Flask, SQLAlchemy), Jupyter Notebooks, GenAI & Autonomous Briefing Engines |
-| **Business Intelligence** | Microsoft Power BI (DAX Measures, Power Query ETL, Star Schema Modeling), Tableau Desktop (Calculated Fields, LOD Expressions, Geo-Mapping) |
-| **Advanced Spreadsheets** | Microsoft Excel (Pivot Tables, Dynamic Slicers, XLOOKUP / VLOOKUP, Nested Formulas, Target Variance Models, Solver) |
-| **Statistical Analysis & Forensics** | Hypothesis Testing (Welch's Two-Sample t-Tests, Mann-Whitney U, Pearson Chi-Square, Fisher's Exact Odds Ratio, One-Way ANOVA), Effect Sizes (Cohen's d, Cramér's V), RFM Segmentation, Pareto Analysis |
-| **Core Capabilities** | Analytical Data Modeling, Micro-Lakehouse Architecture, Data Cleaning & Wrangling, Data Quality Profiling, Autonomous Executive Compliance Reporting |
+| **SQL & Databases** | DuckDB, MySQL, SQLite, PostgreSQL, Relational Schema Design (3NF), CTEs, Window Functions (`LAG`, `LEAD`, `ROW_NUMBER`, `DENSE_RANK`), Multi-Table Joins |
+| **Data Transformation & Modeling** | dbt Core (Staging, Intermediate, Marts, Schema Tests), Star Schema, Dimensional Modeling, Apache Parquet |
+| **Python** | Python (Pandas, Polars, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebooks, Automated Data Pipelines |
+| **Business Intelligence** | Microsoft Power BI (DAX, Power Query ETL, Data Modeling), Tableau Desktop (Calculated Fields, LOD Expressions, Geographic Mapping) |
+| **Spreadsheets** | Microsoft Excel (Pivot Tables, Dynamic Slicers, XLOOKUP, Index/Match, Nested Logic, Variance Tracking) |
+| **Applied Statistics** | Hypothesis Testing (Two-Sample t-Tests, Mann-Whitney U, Chi-Square Independence, ANOVA), RFM Segmentation, Pareto (80/20) Analysis |
 
 ---
 
-## 📂 Portfolio Projects & Directory Matrix
+## Portfolio Projects
 
-| Project | Domain | Tech Stack | Highlights & Key Deliverables |
+| Project | Domain | Stack | Key Highlights |
 | :--- | :--- | :--- | :--- |
-| **[🛰️ DarkFleet-IQ: Maritime Satellite Telemetry & Forensics](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ)** | Maritime Telemetry & Geopolitical Sanctions | DuckDB, dbt Core, Python (Polars, SciPy), Parquet, GenAI | 112k+ pings, 43 dbt tests, Welch's t-test (p < 10⁻³⁷), $4.02B illicit crude detection |
-| **[🗄️ Retail E-Commerce Database & SQL Analytics](sql/README.md)** | Relational DB & SQL | MySQL, Schema Design (3NF), Window Functions | Normalized 6-table schema, 6-tier progressive SQL query analytics suite |
-| **[🛡️ AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)** | Insurance & Risk Analytics | Python, SQLite, SQL DDL, Power BI, SciPy | 2M+ records SQLite DB, hypothesis testing, Power BI dashboard, C-suite report |
-| **[🐍 Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)** | E-Commerce Customer Analytics | Python (Pandas, Seaborn), Jupyter, Pareto Modeling | 23,050 transactions RFM quintile model, 8 behavioral cohorts, Pareto analysis |
-| **[✈️ Commercial Airline Performance & Flight Operations BI](power_bi_projects/README.md)** | Aviation & Operations | Power BI (DAX), Power Query, Star Schema | Interactive route profitability dashboard, delay impact margin analysis |
-| **[📈 Real Estate Market Valuation & Longitudinal Trends](tableau_project/README.md)** | Real Estate Market Analytics | Tableau Desktop, LOD Expressions, GIS | 12-year longitudinal sales trends, Hot Springs \$9.6B market, Sales Ratio analysis |
-| **[📑 Advanced Excel Modeling & Analytics Suite](excel_project/README.md)** | Operational Modeling | Advanced Excel (Multi-Table Pivot Tables, Slicers) | Amazon multi-table quota variance model, student academic impact workbook |
-| **[🧪 Consumer Behavior & Statistical Hypothesis Testing](stat_project/README.md)** | Inferential Statistics | SciPy, Parametric & Non-Parametric Tests | Hypothesis testing report proving gender-neutral spend and education-agnostic value |
+| **[DarkFleet-IQ](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ)** | Maritime Telemetry & Sanctions | DuckDB, dbt Core, Python, Streamlit | Analyzed 112k+ AIS pings; detected transponder blackouts via bidirectional SQL windowing; confirmed draft changes using Welch's t-test (p < 0.001); interactive Streamlit UI. |
+| **[Retail E-Commerce Database](sql/README.md)** | E-Commerce Relational DB | MySQL, 3NF Schema, Window Functions | Designed a 6-table normalized schema with integrity constraints; wrote multi-level SQL analytical queries for revenue, AOV, and SKU velocity. |
+| **[AegisLife Insurance Risk Analytics](Capstone_project_insurance/README.md)** | Insurance & Claims Analytics | Python, SQLite, SciPy, Power BI | Cleansed and structured 2M+ records into SQLite; tested claims payout distributions and agent anomalies using SciPy; built an interactive Power BI dashboard. |
+| **[Customer Lifetime Value & RFM Analysis](python_project/README.md)** | Customer Analytics | Python (Pandas, Seaborn), Jupyter | Segmented 1,000 customers across 23,050 transactions into 8 behavioral cohorts using quintile RFM scoring; visualized revenue concentration with dual-axis Pareto charts. |
+| **[Commercial Airline Operations BI](power_bi_projects/README.md)** | Aviation & Operations | Power BI (DAX), Power Query | Modeled 187 commercial flight records; built custom DAX metrics for route operating margins and calculated profit sensitivities to ground delays > 25 mins. |
+| **[Real Estate Market Valuation](tableau_project/README.md)** | Real Estate Analytics | Tableau Desktop, LOD Expressions | Analyzed 12-year transaction cycles (380k records); evaluated Sales-to-Assessment ratios and municipal price trends across regional markets. |
+| **[Amazon Sales Target Variance Model](excel_project/README.md)** | Sales & Quota Tracking | Advanced Excel (Pivots, Slicers, XLOOKUP) | Connected 4 relational tables (1,000 orders, products, quotas) to automate monthly target tracking and fulfillment variance reporting. |
+| **[Consumer Behavior Statistical Testing](stat_project/README.md)** | Inferential Statistics | Python (SciPy), Hypothesis Testing | Ran two-sample t-tests, ANOVA, and Chi-Square tests on consumer data to evaluate demographic drivers of spend recency and volume. |
 
 ---
 
-## 🌟 Featured Projects Deep-Dive
+## Featured Project Walkthroughs
 
-### 1. 🛰️ [DarkFleet-IQ: Geopolitical AIS Maritime Satellite Telemetry & Forensics](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ) • [🌐 Standalone Repository](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ)
-* **Objective**: Architect an autonomous, institutional-grade maritime surveillance and statistical forensics lakehouse to detect illicit sanctions evasion, transponder tampering (*going dark*), and clandestine mid-sea Ship-to-Ship (STS) crude oil lightering across high-risk choke points (Strait of Hormuz, Malacca Strait, Black Sea, Gulf of Oman).
-* **Stack**: DuckDB Lakehouse, dbt Core (Multi-Schema Staging/Intermediate/Marts), Python (Polars, SciPy, NumPy), Apache Parquet, Jupyter Notebook, Matplotlib/Seaborn, GenAI Briefing Engine.
-* **Highlights**: Ingested 112,000+ satellite AIS pings across 120 vessels; engineered bidirectional SQL windowing (`LAG()` & `LEAD()`) and great-circle Haversine drift tracking; executed a 43-assertion dbt data quality suite; proved mid-sea cargo discharge via Welch's Two-Sample t-test ($t = 33.04, p = 1.68 \times 10^{-37}, d = 99.33$) and Pearson Chi-Square ($\chi^2 = 27.32, p = 1.73 \times 10^{-7}$, Odds Ratio = $44.1\times$ under shadow flags); synthesized findings into an automated C-suite Sanctions Briefing uncovering \$4.02B USD in illicit crude transfers. Pre-rendered interactive analysis available in [`DarkFleet_Forensics_Analysis.ipynb`](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ/blob/main/DarkFleet_Forensics_Analysis.ipynb).
+### 1. [DarkFleet-IQ: Maritime AIS Telemetry & Sanctions Forensics](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ)
+* **Goal**: Build a data pipeline to identify potential AIS transponder manipulation (*going dark*) and clandestine mid-sea cargo discharge across high-risk choke points (Strait of Hormuz, Malacca Strait, Black Sea).
+* **Pipeline**:
+  1. Ingested 112,000+ raw AIS satellite telemetry records and vessel registries into Snappy-compressed Parquet and DuckDB.
+  2. Built a 3-tier dbt Core pipeline (staging, intermediate, marts) with 43 data quality tests.
+  3. Used SQL window functions (`LAG()`, `LEAD()`) and Haversine distance formulas to detect transponder blackouts exceeding 12 hours.
+  4. Applied Welch's t-test in SciPy to confirm statistically significant draft decreases during blackouts ($p < 10^{-37}$), indicating mid-sea cargo transfer.
+  5. Built an interactive Streamlit dashboard for filtering vessels, reviewing blackout tracks, and querying the database directly.
 
-### 2. 🗄️ [Retail E-Commerce Relational Database & Advanced SQL Analytics](sql/README.md)
-* **Objective**: Architect a production-grade 3NF relational database and author a 6-tier analytical SQL query suite.
-* **Stack**: MySQL, ANSI SQL, Window Functions (ROW_NUMBER), Complex Multi-Table Joins, Correlated Subqueries.
-* **Highlights**: Designed 6 normalized tables (customers, products, orders, order_items, payments, product_reviews) with constraint validation; built complex multi-table joins, customer order rankings via window functions, and gateway settlement reconciliation queries.
+### 2. [Retail E-Commerce Relational Database & SQL Analytics](sql/README.md)
+* **Goal**: Architect a production-ready relational database in Third Normal Form (3NF) and write practical business queries.
+* **Implementation**:
+  * Designed tables for `customers`, `products`, `orders`, `order_items`, `payments`, and `product_reviews` with foreign key cascades and indexes.
+  * Authored a progressive analytical query suite: customer repeat purchase rates, running totals, average order value by category, SKU return rates, and payment reconciliation.
 
-### 3. 🛡️ [AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)
-* **Objective**: Alleviate a severe 49% claims fraud suspicion rate and optimize operational turnaround time.
-* **Stack**: Python, SQLite, SQL Schema DDL, Power BI, SciPy.
-* **Highlights**: Ingested 2M+ records into SQLite; conducted hypothesis tests in SciPy empirically proving legacy Risk Score has near-zero correlation with claim payouts (r = 0.012, p = 0.64); detected intermediary agent fraud clustering (chi-sq = 38.42, p < 0.001); delivered an interactive Power BI dashboard.
+### 3. [AegisLife Insurance Claims & Risk Analytics](Capstone_project_insurance/README.md)
+* **Goal**: Analyze insurance policy, claims, and underwriting data to evaluate underwriting score validity and investigate high claim suspicion rates.
+* **Implementation**:
+  * Cleaned 2M+ records using Python and loaded them into SQLite.
+  * Ran correlation tests and discovered weak predictive correlation between legacy risk scores and actual payout amounts ($r = 0.012, p = 0.64$).
+  * Isolated cluster patterns among specific intermediary agents associated with early claims (< 90 days).
+  * Built an operational claims summary dashboard in Power BI.
 
-### 4. 🐍 [Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)
-* **Objective**: Segment 1,000 customer accounts across 23,050 transactions into high-value customer personas.
-* **Stack**: Python (Pandas, NumPy, Seaborn, Matplotlib, Jupyter).
-* **Highlights**: Built an RFM scoring pipeline using pandas qcut quintiles; classified 8 customer cohorts (Champions driving \$3.73M / 16.2% revenue, Loyal Customers driving \$5.12M / 22.2% revenue); built a dual-axis Pareto chart mapping decile spend against cumulative revenue share.
-
-### 5. ✈️ [Commercial Airline Performance & Profitability Dashboard](power_bi_projects/README.md)
-* **Objective**: Analyze route profitability, load factors, and delay sensitivities across 187 commercial flights.
-* **Stack**: Microsoft Power BI Desktop, DAX, Power Query ETL.
-* **Highlights**: Formulated custom DAX measures for Route Operating Margin % and Delay Impact Factor; quantified that flight delays exceeding 25 minutes trigger an 18.4% operating profit drop.
-
-### 6. 📈 [Real Estate Market Valuation Intelligence Dashboard](tableau_project/README.md)
-* **Objective**: Evaluate 12 years of property transaction cycles (2011-2022), municipal performance, and tax assessment sales ratios.
-* **Stack**: Tableau Desktop, Level of Detail (LOD) Expressions, Geographic Mapping.
-* **Highlights**: Analyzed pandemic surge peaks in 2020-2021 (64.4k sales), identified Hot Springs (\$9.6B total sales) as top market, and evaluated Assessed Value to Sale Price ratios (1.08-1.11 benchmarks).
-
-### 7. 🛒 [Amazon E-Commerce Sales & Target Variance Model](excel_project/README.md)
-* **Objective**: Multi-table operational dashboard tracking order fulfillment and regional quota attainment.
-* **Stack**: Microsoft Excel (Pivot Tables, Slicers, XLOOKUP, Variance Formulas).
-* **Highlights**: Connected 4 relational tables (1,000 orders, product catalog, customer master, regional goals) with dynamic variance KPI reporting.
-
-### 8. 🧪 [Customer Behavior Statistical Modeling & Hypothesis Testing](stat_project/README.md)
-* **Objective**: Test demographic variables against consumer spending and digital engagement recency.
-* **Stack**: Inferential Statistics, SciPy, Parametric & Non-Parametric Hypothesis Testing, HTML.
-* **Highlights**: Two-sample t-tests (p > 0.05) proving gender-neutral spending, ANOVA confirming education-agnostic demand, and Chi-Square establishing marital status lifestyle relationships.
+### 4. [Customer Lifetime Value & RFM Segmentation](python_project/README.md)
+* **Goal**: Identify high-value and at-risk customer segments from transactional e-commerce data.
+* **Implementation**:
+  * Processed 23,050 transactions using Pandas, calculating Recency, Frequency, and Monetary metrics per customer.
+  * Applied `pd.qcut` quintile scoring to segment users into 8 cohorts (Champions, Loyal Customers, At Risk, Hibernating, etc.).
+  * Discovered that the top 31.8% of customers drove 38.4% of total revenue ($8.85M), providing clear targeting guidance for retention campaigns.
 
 ---
 
-## 📜 Education & Certifications
-* **Data Analytics with GenAI (Master Certificate)** | Career 247 (An Adda247 Education Company) | Credential ID: **SIN: C2473293**
-* **Certificate Course in Market Research (60 Hours)** | Reliance Foundation Skilling Academy & Skill India Digital Hub (December 2025)
-* **Generative AI Essentials (AI0121EN)** | Career 247 & IBM SkillsNetwork (July 2026)
-* **AI Applications with Python and Flask (PY0222EN)** | Career 247 & IBM SkillsNetwork (August 2026)
-* **Generative AI Skills for Business Intelligence (AI0279EN)** | Career 247 & IBM SkillsNetwork (August 2026)
-* **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics** | Kumaun University, Uttarakhand, India (Graduation: 2020)
+## Education & Certifications
+
+* **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics** — Kumaun University, Nainital, Uttarakhand (2020)
+* **Data Analytics with GenAI (Master Certificate)** — Career 247 (SIN: C2473293)
+* **Certificate Course in Market Research (60 Hours)** — Reliance Foundation Skilling Academy & Skill India Digital Hub (Dec 2025)
+* **AI Applications with Python and Flask (PY0222EN)** — IBM SkillsNetwork & Career 247
+* **Generative AI Skills for Business Intelligence (AI0279EN)** — IBM SkillsNetwork & Career 247
+* **Generative AI Essentials (AI0121EN)** — IBM SkillsNetwork & Career 247
 
 ---
 
-## 📬 Contact & Connect
-* **Name**: Kartik Tripathi
-* **Location**: Nainital, Uttarakhand, India
-* **Phone**: [+91 70172 69349](tel:+917017269349)
-* **Email**: [ktkartik1234@gmail.com](mailto:ktkartik1234@gmail.com)
-* **LinkedIn**: [linkedin.com/in/kartik-tripathi-725697383](https://www.linkedin.com/in/kartik-tripathi-725697383)
-* **GitHub**: [github.com/ktkartik1234-lgtm](https://github.com/ktkartik1234-lgtm)
+## Contact
+* **Location:** Nainital, Uttarakhand, India (Open to relocation / remote)
+* **Email:** [ktkartik1234@gmail.com](mailto:ktkartik1234@gmail.com)
+* **Phone:** [+91 70172 69349](tel:+917017269349)
+* **LinkedIn:** [linkedin.com/in/kartik-tripathi-725697383](https://www.linkedin.com/in/kartik-tripathi-725697383)
+* **GitHub:** [github.com/ktkartik1234-lgtm](https://github.com/ktkartik1234-lgtm)
