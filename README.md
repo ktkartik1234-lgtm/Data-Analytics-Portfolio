@@ -33,7 +33,7 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 
 | Project | Domain | Tech Stack | Highlights & Key Deliverables |
 | :--- | :--- | :--- | :--- |
-| **[🛰️ DarkFleet-IQ: Maritime Satellite Telemetry & Forensics](dark_fleet_analytics/README.md)** | Maritime Telemetry & Geopolitical Sanctions | DuckDB, dbt Core, Python (Polars, SciPy), Parquet, GenAI | 112k+ pings, 43 dbt tests, Welch's t-test (p < 10⁻³⁷), $4.02B illicit crude detection |
+| **[🛰️ DarkFleet-IQ: Maritime Satellite Telemetry & Forensics](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ)** | Maritime Telemetry & Geopolitical Sanctions | DuckDB, dbt Core, Python (Polars, SciPy), Parquet, GenAI | 112k+ pings, 43 dbt tests, Welch's t-test (p < 10⁻³⁷), $4.02B illicit crude detection |
 | **[🗄️ Retail E-Commerce Database & SQL Analytics](sql/README.md)** | Relational DB & SQL | MySQL, Schema Design (3NF), Window Functions | Normalized 6-table schema, 6-tier progressive SQL query analytics suite |
 | **[🛡️ AegisLife Insurance Risk Analytics & Claims Intelligence](Capstone_project_insurance/README.md)** | Insurance & Risk Analytics | Python, SQLite, SQL DDL, Power BI, SciPy | 2M+ records SQLite DB, hypothesis testing, Power BI dashboard, C-suite report |
 | **[🐍 Customer Lifetime Value & RFM Segmentation Pipeline](python_project/README.md)** | E-Commerce Customer Analytics | Python (Pandas, Seaborn), Jupyter, Pareto Modeling | 23,050 transactions RFM quintile model, 8 behavioral cohorts, Pareto analysis |
@@ -46,10 +46,10 @@ Holding a **Bachelor of Science (B.Sc.) in Physics, Chemistry, and Mathematics**
 
 ## 🌟 Featured Projects Deep-Dive
 
-### 1. 🛰️ [DarkFleet-IQ: Geopolitical AIS Maritime Satellite Telemetry & Forensics](dark_fleet_analytics/README.md) • [📓 View Interactive Notebook](dark_fleet_analytics/DarkFleet_Forensics_Analysis.ipynb)
+### 1. 🛰️ [DarkFleet-IQ: Geopolitical AIS Maritime Satellite Telemetry & Forensics](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ) • [🌐 Standalone Repository](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ)
 * **Objective**: Architect an autonomous, institutional-grade maritime surveillance and statistical forensics lakehouse to detect illicit sanctions evasion, transponder tampering (*going dark*), and clandestine mid-sea Ship-to-Ship (STS) crude oil lightering across high-risk choke points (Strait of Hormuz, Malacca Strait, Black Sea, Gulf of Oman).
 * **Stack**: DuckDB Lakehouse, dbt Core (Multi-Schema Staging/Intermediate/Marts), Python (Polars, SciPy, NumPy), Apache Parquet, Jupyter Notebook, Matplotlib/Seaborn, GenAI Briefing Engine.
-* **Highlights**: Ingested 112,000+ satellite AIS pings across 120 vessels; engineered bidirectional SQL windowing (`LAG()` & `LEAD()`) and great-circle Haversine drift tracking; executed a 43-assertion dbt data quality suite; proved mid-sea cargo discharge via Welch's Two-Sample t-test ($t = 33.04, p = 1.68 \times 10^{-37}, d = 99.33$) and Pearson Chi-Square ($\chi^2 = 27.32, p = 1.73 \times 10^{-7}$, Odds Ratio = $44.1\times$ under shadow flags); synthesized findings into an automated C-suite Sanctions Briefing uncovering \$4.02B USD in illicit crude transfers. Pre-rendered interactive analysis available in [`DarkFleet_Forensics_Analysis.ipynb`](dark_fleet_analytics/DarkFleet_Forensics_Analysis.ipynb).
+* **Highlights**: Ingested 112,000+ satellite AIS pings across 120 vessels; engineered bidirectional SQL windowing (`LAG()` & `LEAD()`) and great-circle Haversine drift tracking; executed a 43-assertion dbt data quality suite; proved mid-sea cargo discharge via Welch's Two-Sample t-test ($t = 33.04, p = 1.68 \times 10^{-37}, d = 99.33$) and Pearson Chi-Square ($\chi^2 = 27.32, p = 1.73 \times 10^{-7}$, Odds Ratio = $44.1\times$ under shadow flags); synthesized findings into an automated C-suite Sanctions Briefing uncovering \$4.02B USD in illicit crude transfers. Pre-rendered interactive analysis available in [`DarkFleet_Forensics_Analysis.ipynb`](https://github.com/ktkartik1234-lgtm/DarkFleet-IQ/blob/main/DarkFleet_Forensics_Analysis.ipynb).
 
 ### 2. 🗄️ [Retail E-Commerce Relational Database & Advanced SQL Analytics](sql/README.md)
 * **Objective**: Architect a production-grade 3NF relational database and author a 6-tier analytical SQL query suite.
